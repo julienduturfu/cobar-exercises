@@ -36,12 +36,10 @@ cd flygym
 git checkout cobar
 ```
 Next, change directory to the cloned repository and install the flygym package in editable mode.
-
-For Windows and Linux:
 ```sh
 pip install -e .[dev,examples]
 ```
-For macOS:
+On zsh (default shell on MacOs), you need to put [dev,examples] in quotes:
 ```sh
 cd flygym
 pip install -e ."[dev,examples]"
