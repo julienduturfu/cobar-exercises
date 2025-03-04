@@ -1,0 +1,6 @@
+Tue Feb 18 15:41:56 2025
+WARNING: Inertia matrix is too close to singular at DOF 66. Check model. Time = 51.6541.
+
+Tue Feb 18 15:48:20 2025
+WARNING: Inertia matrix is too close to singular at DOF 0. Check model. Time = 21.6888.
+
